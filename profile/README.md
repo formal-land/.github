@@ -1,10 +1,10 @@
 # Formal Land
-Welcome to the GitHub organization of Formal Land!
+Welcome to the GitHub organization of [Formal Land](https://formal.land/)!
 
 ![logo](https://formal.land/img/icons/land.png)
 
 ## Overview
-Formal Land is dedicated to enhancing security and reliability through advanced formal verification techniques. We specialize in verifying blockchain implementations, smart contracts, and systems software to ensure they meet the highest standards of correctness.
+[Formal Land](https://formal.land/) is dedicated to enhancing security and reliability through advanced formal verification techniques. We specialize in verifying blockchain implementations, smart contracts, and systems software to ensure they meet the highest standards of correctness.
 
 ## Projects
 ### L1 of Tezos
