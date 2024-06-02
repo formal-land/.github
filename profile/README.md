@@ -1,5 +1,5 @@
 # Formal Land
-Welcome to the GitHub organization of [Formal Land](https://formal.land/)!
+Welcome to the GitHub organization of [Formal Land](https://formal.land/). Read about what we are doing on our [Blog](https://formal.land/blog)!
 
 ![logo](https://formal.land/img/icons/land.png)
 
@@ -20,11 +20,4 @@ We're verifying the equivalence of [Python EVM](https://github.com/ethereum/exec
 Stay tuned for announcements on our next formal verification project aimed at improving dApp security.
 
 ## Get Involved
-We welcome collaboration and inquiries. Contact us to discuss how we can help verify your projects.
-
-## Links
-* [Homepage](https://formal.land/)
-* [GitHub](https://github.com/formal-land)
-* [GitLab](https://gitlab.com/formal-land)
-* [Blog](https://formal.land/blog)
-* [X](https://x.com/LandFoobar)
+We welcome collaboration and inquiries. Contact us by email or on [X](https://x.com/LandFoobar) to discuss how we can help verify your projects.
